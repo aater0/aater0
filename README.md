@@ -11,7 +11,7 @@ Hi, I'm Adam Ater 👋, an IT professional with a passion for technology, proble
 ## 📂 Featured Projects  
 Here are some of the projects I worked on during my CourseCareers training and beyond:  
 
-### 1️⃣ **[Project Name - Help Desk Ticketing System]**  
+### 1️⃣ **Os Ticket - (Help Desk Ticketing System)**  
 📌 *Developed a simulated help desk ticketing system to track IT issues and resolutions.*  
 🔹 **Tech Stack:** ServiceNow, PowerShell, Python  
 🔹 [Link to repository](GitHub Repository Link)  
