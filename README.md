@@ -36,7 +36,10 @@ Here are some of the projects I worked on during my CourseCareers training and b
 
 ## 📜 Certifications & Training  
 🎓 **CourseCareers IT Program Graduate**  
-📜 [Other certifications, if any]  
+- Google IT Support
+- Cisco Certified Support Technician
+- ISC2 Certified in Cybersecurity
+- Entry Level Data Analysis
 
 ## 🤝 Let's Connect!  
 📧 Email: adampatrickater@yahoo.com 
