@@ -25,9 +25,12 @@ Here are some of the projects I worked on during my CourseCareers training and b
 - Managed user roles and permissions to control access levels.
 - [Link to repository](GitHub Repository Link)  
 
-### 2️⃣ **[Project Name - Network Setup & Configuration]**  
-📌 *Designed and configured a small business network with VLANs and firewall rules.*  
-- **Tech Stack:** Cisco Packet Tracer, pfSense, Linux  
+### 2️⃣ **Virtual Private Network - (VPN)**  
+📌 *Using and understanding VPNs.*  
+- Installed and set up a VPN client on a remote device
+- Established a secure connection to the VPN server
+- Checked IP address changes before and after VPN connection
+- Verified encryption and tunneling with packet analysis tools (e.g., Wireshark)
 - [Link to repository](GitHub Repository Link)  
 
 ### 3️⃣ **Active Directory - (Azure)**  
