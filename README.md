@@ -13,18 +13,38 @@ Here are some of the projects I worked on during my CourseCareers training and b
 
 ### 1️⃣ **Os Ticket - (Help Desk Ticketing System)**  
 📌 *Developed a simulated help desk ticketing system to track IT issues and resolutions.*  
-🔹 **Tech Stack:** ServiceNow, PowerShell, Python  
-🔹 [Link to repository](GitHub Repository Link)  
+- Downloaded and installed osTicket on a web hosting environment.
+- Configured a database (MySQL/MariaDB) for storing ticket data.
+- Installed required dependencies (PHP, web server like Apache or IIS).
+- Completed the initial setup wizard, creating the admin account and system settings.
+- Created help topics to categorize support requests.
+- Configured departments, teams, and agents for ticket assignment.
+- Enabled SLA (Service Level Agreements) to track response times.
+- Created and assigned tickets based on user requests.
+- Responded to tickets and tracked resolution status.
+- Managed user roles and permissions to control access levels.
+- [Link to repository](GitHub Repository Link)  
 
 ### 2️⃣ **[Project Name - Network Setup & Configuration]**  
 📌 *Designed and configured a small business network with VLANs and firewall rules.*  
-🔹 **Tech Stack:** Cisco Packet Tracer, pfSense, Linux  
-🔹 [Link to repository](GitHub Repository Link)  
+- **Tech Stack:** Cisco Packet Tracer, pfSense, Linux  
+- [Link to repository](GitHub Repository Link)  
 
-### 3️⃣ **[Project Name - Security & Automation Scripts]**  
-📌 *Created PowerShell and Bash scripts to automate system security tasks.*  
-🔹 **Tech Stack:** PowerShell, Bash, Windows Server  
-🔹 [Link to repository](GitHub Repository Link)  
+### 3️⃣ **Active Directory - (Azure)**  
+📌 * Setting up and configuring an Active Directory environment.*  
+- Active Directory Setup – Installed and configured AD on a Windows Server
+- User & Group Management – Created and managed users, groups, and organizational units
+- Group Policy Implementation – Configured GPOs to enforce security and user settings
+- DNS & DHCP Configuration – Set up and managed domain name resolution and IP assignment
+- Security Best Practices – Implemented access controls, permissions, and auditing
+
+- [Link to repository](GitHub Repository Link)  
+
+### 4️⃣ **From Slow to Pro: (Upgrading an Old Laptop for Productivity)**  
+📌 *2010 Macbook hardware upgrades.*  
+- Replaced the old HDD with an SSD to improve boot times, storage, and overall system performance.
+- Upgraded RAM from 8 GB to 32 GB to enhance multitasking and responsiveness.
+- [Link to repository](GitHub Repository Link)  
 
 ## 🛠️ Technical Skills  
 - **IT Support & Troubleshooting:** Windows, macOS, Linux  
