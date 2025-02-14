@@ -67,6 +67,5 @@ Here are some of the projects I worked on during my CourseCareers training and b
 ## 🤝 Let's Connect!  
 📧 Email: adampatrickater@yahoo.com 
 🔗 LinkedIn: [www.linkedin.com/in/adam-ater]  
-🌐 Portfolio Website: [Your Website (if any)]  
 
 ⭐ **Feel free to explore my repositories and reach out for collaborations or job opportunities!** 
