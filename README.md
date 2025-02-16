@@ -46,7 +46,7 @@ Here are some of the projects I worked on during my CourseCareers training and b
 ### 4️⃣ **From Slow to Pro: (Upgrading an Old Laptop for Productivity)**  
 📌 *2010 Macbook hardware upgrades.*  
 - Replaced the old HDD with an SSD to improve boot times, storage, and overall system performance.
-- Upgraded RAM from 8 GB to 32 GB to enhance multitasking and responsiveness.
+- Upgraded RAM from 4 GB to 16 GB to enhance multitasking and responsiveness.
 - [Link to repository](GitHub Repository Link)  
 
 ## 🛠️ Technical Skills  
