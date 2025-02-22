@@ -40,7 +40,6 @@ Here are some of the projects I worked on during my CourseCareers training and b
 - Group Policy Implementation – Configured GPOs to enforce security and user settings
 - DNS & DHCP Configuration – Set up and managed domain name resolution and IP assignment
 - Security Best Practices – Implemented access controls, permissions, and auditing
-
 - [Link to repository](GitHub Repository Link)  
 
 ### 4️⃣ **From Slow to Pro: (Upgrading an Old Laptop for Productivity)**  
