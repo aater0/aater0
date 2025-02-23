@@ -23,7 +23,7 @@ Here are some of the projects I worked on during my CourseCareers training and b
 - Created and assigned tickets based on user requests.
 - Responded to tickets and tracked resolution status.
 - Managed user roles and permissions to control access levels.
-- [Link to repository](GitHub Repository Link)  
+- [Link to repository](https://github.com/aater0/Os-Ticket)  
 
 ### 2️⃣ **Virtual Private Network - (VPN)**  
 📌 *Using and understanding VPNs.*  
