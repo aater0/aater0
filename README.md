@@ -31,7 +31,7 @@ Here are some of the projects I worked on during my CourseCareers training and b
 - Established a secure connection to the VPN server
 - Checked IP address changes before and after VPN connection
 - Verified encryption and tunneling with packet analysis tools (e.g., Wireshark)
-- [Link to repository](GitHub Repository Link)  
+- [Link to repository](https://github.com/aater0/Virtual-Private-Networks-VPN-)  
 
 ### 3️⃣ **Active Directory - (Azure)**  
 📌 * Setting up and configuring an Active Directory environment.*  
