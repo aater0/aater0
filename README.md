@@ -52,7 +52,7 @@ Here are some of the projects I worked on during my CourseCareers training and b
 - **IT Support & Troubleshooting:** Windows, macOS, Linux  
 - **Networking:** TCP/IP, DNS, DHCP, Firewalls  
 - **Cybersecurity:** Security best practices, Endpoint Protection  
-- **Cloud & Virtualization:** AWS, Azure, VirtualBox  
+- **Cloud & Virtualization:** Azure, VirtualBox  
 - **Scripting & Automation:** Python, PowerShell, Bash  
 - **Help Desk Tools:** ServiceNow, Jira, Active Directory  
 
