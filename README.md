@@ -46,7 +46,16 @@ Here are some of the projects I worked on during my CourseCareers training and b
 📌 *2010 Macbook hardware upgrades.*  
 - Replaced the old HDD with an SSD to improve boot times, storage, and overall system performance.
 - Upgraded RAM from 4 GB to 16 GB to enhance multitasking and responsiveness.
-- [Link to repository](https://github.com/aater0/Macbook-Upgrade)  
+- [Link to repository](https://github.com/aater0/Macbook-Upgrade)
+
+### 5️⃣ **Game Boy Advance Restoration & Upgrade.**
+📌 *Restoring and modding a Game Boy Advance.*
+- New Shell
+- LCD Screen Upgrade
+- Audio Enhancement
+- Soldered Mods
+- Battery Mod
+- [Link to repository](https://github.com/aater0/Macbook-Upgrade)
 
 ## 🛠️ Technical Skills  
 - **IT Support & Troubleshooting:** Windows, macOS, Linux  
