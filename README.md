@@ -55,7 +55,7 @@ Here are some of the projects I worked on during my CourseCareers training and b
 - Audio Enhancement
 - Soldered Mods
 - Battery Mod
-- [Link to repository](https://github.com/aater0/Macbook-Upgrade)
+- [Link to repository](https://github.com/aater0/Game-Boy-Advance-Upgrade)
 
 ## 🛠️ Technical Skills  
 - **IT Support & Troubleshooting:** Windows, macOS, Linux  
