@@ -34,7 +34,7 @@ Here are some of the projects I worked on during my CourseCareers training and b
 - [Link to repository](https://github.com/aater0/Virtual-Private-Networks-VPN-)  
 
 ### 3️⃣ **Active Directory - (Azure)**  
-📌 * Setting up and configuring an Active Directory environment.*  
+📌 *Setting up and configuring an Active Directory environment.*  
 - Active Directory Setup – Installed and configured AD on a Windows Server
 - User & Group Management – Created and managed users, groups, and organizational units
 - Group Policy Implementation – Configured GPOs to enforce security and user settings
